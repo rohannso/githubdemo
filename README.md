@@ -1,4 +1,4 @@
 # githubdemo
 this is my first repo.
 <br>
-Author ROHAN sONAWANE
+Author ROHAN sONAWANE(merchant)
